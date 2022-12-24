@@ -577,3 +577,5 @@ let funct = function () {
 }
 
 funct()
+
+console.log("hello world");
