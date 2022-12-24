@@ -579,3 +579,4 @@ let funct = function () {
 funct()
 
 console.log("hello world");
+console.log("hello word");
